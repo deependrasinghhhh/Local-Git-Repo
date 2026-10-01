@@ -1,4 +1,4 @@
-# Sample Module Tests
+# Sample Module Tests: Git Branch Practice
 
 A small Python project for practicing Git branches, tests, and merge conflicts.
 
