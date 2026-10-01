@@ -1,4 +1,4 @@
-# Sample Module Tests: Merge Conflict Demo
+# Sample Module Tests: Python and Git Practice
 
 A small Python project for practicing Git branches, tests, and merge conflicts.
 
